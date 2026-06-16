@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --asrs-orange: #d98a2b;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
