@@ -1,6 +1,6 @@
-# ASRS Homepage Skeleton
+# ASRS Homepage
 
-Next.js (App Router) + React + Tailwind CSS skeleton recreating the ASRS homepage.
+Next.js (App Router) + React + Tailwind CSS skeleton for ASRS homepage.
 
 ## Run
 
